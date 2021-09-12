@@ -1,0 +1,16 @@
+Warning messages:
+1: replacing previous import ‘data.table::last’ by ‘dplyr::last’ when loading ‘openweatherr’ 
+2: replacing previous import ‘data.table::first’ by ‘dplyr::first’ when loading ‘openweatherr’ 
+3: replacing previous import ‘data.table::between’ by ‘dplyr::between’ when loading ‘openweatherr’ 
+Error in UseMethod("select") : 
+  no applicable method for 'select' applied to an object of class "NULL"
+Calls: get.weather -> setup.weather -> %>% -> select
+Execution halted
+Warning messages:
+1: replacing previous import ‘data.table::last’ by ‘dplyr::last’ when loading ‘openweatherr’ 
+2: replacing previous import ‘data.table::first’ by ‘dplyr::first’ when loading ‘openweatherr’ 
+3: replacing previous import ‘data.table::between’ by ‘dplyr::between’ when loading ‘openweatherr’ 
+Error in UseMethod("select") : 
+  no applicable method for 'select' applied to an object of class "NULL"
+Calls: get.weather -> setup.weather -> %>% -> select
+Execution halted
